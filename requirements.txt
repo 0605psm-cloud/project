@@ -1,2 +1,2 @@
-websockets==12.*
-asyncio
+websockets
+aiohttp
